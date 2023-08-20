@@ -1,0 +1,31 @@
+body{
+    color: #82a5ca; 
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+#hero{
+    background-image: url("Universe2.webp");
+    background-size: cover;
+    padding: 10px 0 300px 0;
+}
+
+#main-logo{
+    width: 100px;
+}
+
+.btn{
+    padding: 6px 12px;
+    background-color: #ffffff;
+    border:none;
+    font-family: inherit;
+}
+
+#line{
+    border-bottom: 4px solid white;
+}
+
+h1{
+    font-size: 80px;
+    text-shadow: 5px 5px 0px red;
+}
